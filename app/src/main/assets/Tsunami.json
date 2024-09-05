@@ -1,0 +1,28 @@
+{
+  "tsunamiAlerts": [
+    {
+      "location": "Beach A",
+      "alertLevel": "high",
+      "timestamp": "2024-09-06T12:00:00",
+      "message": "Immediate evacuation required. High tsunami risk."
+    },
+    {
+      "location": "Beach B",
+      "alertLevel": "moderate",
+      "timestamp": "2024-09-06T12:05:00",
+      "message": "Stay alert. Moderate tsunami risk."
+    },
+    {
+      "location": "Beach C",
+      "alertLevel": "low",
+      "timestamp": "2024-09-06T12:10:00",
+      "message": "Low risk, no immediate action required."
+    },
+    {
+      "location": "Beach D",
+      "alertLevel": "safe",
+      "timestamp": "2024-09-06T12:15:00",
+      "message": "No risk, situation is safe."
+    }
+  ]
+}
